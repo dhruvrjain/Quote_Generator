@@ -2,9 +2,9 @@ const quote=document.querySelector(".quote")
 const btn=document.querySelector("#new-quote")
 const person=document.querySelector(".person")
 
-quotes=[
+const quotes=[
     {
-        quote: "Go to the f*ckin GYM",
+        quote: "Go to the freakin GYM",
         person: "Papa Jones",
     },
     {
@@ -12,7 +12,7 @@ quotes=[
         person: "Madara Uchiha",
     },
     {
-        quote: "Power comes to a response of a need, not want",
+        quote: "Power comes to a response of a need, not desire",
         person: "Son Goku",
     },
     {
@@ -24,36 +24,36 @@ quotes=[
         person: "Itachi Uchiha",
     },
     {
-        quote: "Never forget the Good in you. The ones who love you know it.",
-        person: "Pooja",
+        quote: "Never forget the Good in you. The ones who love you, are the ones who can see it.",
+        person: "",
     },
     {
         quote: "The difference between a novice and a master is that a master has failed more times than a novice had tried.",
         person: "Koro-Sensei",
     },
     {
-        quote:"I hate perfection. To be perfect is to be unable to improve any further.",
-        person:"Kurotsuchi Mayuri"
+        quote: "Hate perfection. To be perfect is to be unable to improve any further.",
+        person: "Kurotsuchi Mayuri"
     },
     {
-        quote:"Every journey begins with a single step. We just have to have patience",
-        person:"Milly Thompson"
+        quote: "Every journey begins with a single step. We just have to have patience",
+        person: "Milly Thompson"
     },
     {
-        quote:"You've got two legs and a heartbeat. What's stopping you?",
-        person:"Inuyasha"
+        quote: "You've got two legs and a heartbeat. What's stopping you?",
+        person: "Inuyasha"
     },
     {
         quote: "No amount of talent trumps hard work",
-        person:"Rin Matsuoke"
+        person: "Rin Matsuoke"
     },
     {
-        quote:"Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder.",
+        quote: "Fear is not evil. It tells you what weakness is. And once you know your weakness, you can become stronger as well as kinder.",
         person: "Gildarts Clive"
     },
     {
-        quote:"The ticket to the future is always open",
-        person:"Vash The Stampede"
+        quote: "The ticket to the future is always open",
+        person: "Vash The Stampede"
     }
 ]
 

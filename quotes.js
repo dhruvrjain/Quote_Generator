@@ -25,7 +25,7 @@ const quotes=[
     },
     {
         quote: "Never forget the Good in you. The ones who love you, are the ones who can see it.",
-        person: "",
+        person: "Unknown",
     },
     {
         quote: "The difference between a novice and a master is that a master has failed more times than a novice had tried.",

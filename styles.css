@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    background: url('images/bulbs_glow_blue_art_wallpaper_4k_hd_creative.jpg') no-repeat center center/ cover;
+}
+
+.container{
+    width: 60%;
+    height: 500px; 
+}
+
+.header{
+    border: 2px solid white;
+    color: white;
+    background-color: #333333;
+    width: 60%;
+    padding: 5px;
+    margin: 20px auto;
+    font-size: 1.5rem;
+    border-radius: 7px;
+}
+
+.main-content{
+    background-color: white;
+    padding: 10px 15px;
+    box-shadow: 0 0 10px;
+    border-radius: 15px;
+}
+
+.text-area{
+    margin: 30px;
+    font-size: 1.4rem;
+    line-height: 1.7;
+}
+
+.person{
+    color: red;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+
+.button-area button{
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    margin-top: 30px;
+    color: white;
+    background-color: #333333;
+}
+
+.button-area button:active{
+    background-color: lightblue;
+}
